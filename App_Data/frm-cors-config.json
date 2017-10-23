@@ -1,0 +1,17 @@
+﻿[{
+
+    "controllers": "*",
+
+    "allow-origin": "*",
+
+    "allow-methods": "GET, POST, PUT, DELETE",
+
+    "allow-headers": "Authorization, Content-Type",
+
+    "allow-credentials": true,
+
+    "max-age": 300,
+    
+    "expose-headers": "*"
+
+}]
